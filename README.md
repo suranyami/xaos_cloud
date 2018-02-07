@@ -1,3 +1,3 @@
-# Xaos Cloud
+# XaosCloud
 
 Chaos Cloud ported to Elixir
